@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/MapObject.h
+string
+-
+iostream
+-
+cstdlib
+-
+
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/MapObjectList.h
+string
+-
+cstdlib
+-
+vector
+-
+MapObject.h
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/MapObject.h
+
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/main.cpp
+MapObjectList.h
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/MapObjectList.h
+MapObject.h
+/Users/qmtruong92/CLionProjects/CPP/Project3CPP/MapObject.h
+

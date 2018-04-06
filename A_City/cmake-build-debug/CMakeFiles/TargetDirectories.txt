@@ -1,0 +1,6 @@
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/Names.dir
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/NamesList.dir
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/Name.dir
+/Users/qmtruong92/CLionProjects/A_City/cmake-build-debug/CMakeFiles/A_City.dir

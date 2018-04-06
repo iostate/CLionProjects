@@ -1,0 +1,6 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/qmtruong92/CLionProjects/A_City
+-- Configuring done
+CMake Error: CMake can not determine linker language for target: Name
+CMake Error: Cannot determine link language for target "Name".
+-- Generating done
+-- Build files have been written to: /Users/qmtruong92/CLionProjects/A_City/cmake-build-debug

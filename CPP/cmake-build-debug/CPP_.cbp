@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CPP_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing_stringstream_to_double">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/testing_stringstream_to_double" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing_stringstream_to_double"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testing_stringstream_to_double/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/testing_stringstream_to_double" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 testing_stringstream_to_double/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multifile_program_student">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/multifile_program_student" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 multifile_program_student"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="multifile_program_student/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/multifile_program_student" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 multifile_program_student/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flowcontrol">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/flowcontrol" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 flowcontrol"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="flowcontrol/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/flowcontrol" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 flowcontrol/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practice1">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/practice1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 practice1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="practice1/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/practice1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 practice1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="movie">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/movie" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 movie"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="movie/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/movie" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 movie/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="activity1">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/activity1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 activity1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="activity1/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/activity1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 activity1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CPP_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CPP_/fast">
+				<Option output="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CPP_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 CPP_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Activities/activity1.cpp">
+			<Option target="activity1"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Practices/movie.cpp">
+			<Option target="movie"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Practices/movie.h">
+			<Option target="movie"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Practices/multifile_program_student.cpp">
+			<Option target="multifile_program_student"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Practices/multifile_program_student.h">
+			<Option target="multifile_program_student"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Practices/practice1.cpp">
+			<Option target="practice1"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/Srsly_Practice/testing_stringstream_to_double.cpp">
+			<Option target="testing_stringstream_to_double"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/flowcontrol.cpp">
+			<Option target="flowcontrol"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/stdio.cpp">
+			<Option target="CPP_"/>
+		</Unit>
+		<Unit filename="/Users/qmtruong92/CLionProjects/CPP_/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

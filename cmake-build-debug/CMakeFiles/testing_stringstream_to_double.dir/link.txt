@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/testing_stringstream_to_double.dir/CPP/Srsly_Practice/testing_stringstream_to_double.cpp.o  -o testing_stringstream_to_double 

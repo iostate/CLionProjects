@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Vectors.dir/CPP/Vectors.cpp.o  -o Vectors 

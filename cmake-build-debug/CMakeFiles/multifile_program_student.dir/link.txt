@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/multifile_program_student.dir/CPP/Practices/multifile_program_student.cpp.o  -o multifile_program_student 

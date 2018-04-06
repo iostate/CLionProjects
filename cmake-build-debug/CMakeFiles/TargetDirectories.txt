@@ -1,0 +1,12 @@
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/practice1.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/Practice3.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/Vectors.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/DynamicArray.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/testing_stringstream_to_double.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/multifile_program_student.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/flowcontrol.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/movie.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/activity1.dir
+/Users/qmtruong92/CLionProjects/CPP_/cmake-build-debug/CMakeFiles/CPP_.dir
